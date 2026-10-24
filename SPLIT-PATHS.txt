@@ -1,0 +1,7 @@
+c_LabTools/Music_DAW_LLMS
+c_LabTools/Music_DJ-Mixer_Mixxx
+c_LabTools/central_bank
+c_LabTools/fin-terminal
+c_LabTools/market_watch
+c_LabTools/news
+c_LabTools/sailytics
