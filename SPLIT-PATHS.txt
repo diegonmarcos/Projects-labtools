@@ -1,7 +1,7 @@
-c_LabTools/Music_DAW_LLMS
-c_LabTools/Music_DJ-Mixer_Mixxx
-c_LabTools/central_bank
-c_LabTools/fin-terminal
-c_LabTools/market_watch
-c_LabTools/news
-c_LabTools/sailytics
+a-Lfy_CG-Zirkus/Music_DAW_LLMS
+a-Lfy_CG-Zirkus/Music_DJ-Mixer_Mixxx
+b-Nxs_PA/central_bank
+b-Nxs_Blmmbrg/fin-terminal
+b-Nxs_Blmmbrg/market_watch
+b-Nxs_Blmmbrg/news
+c-Stk_DsX/sailytics
