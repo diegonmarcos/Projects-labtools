@@ -7,4 +7,4 @@ History stays in diegonmarcos.github.io (snapshot copy). `SPLIT-PATHS.txt` lists
 - `b-Nxs_Blmmbrg` → [Fin-CM-Blmbrg](https://github.com/diegonmarcos/Fin-CM-Blmbrg) `src/`
 - `b-Nxs_PA` → [Fin-CM-mqpm](https://github.com/diegonmarcos/Fin-CM-mqpm) `src/central_bank`
 - `a-Lfy_CG-Zirkus` → [CG-circus](https://github.com/diegonmarcos/CG-circus) `a-Lfy_CG-Zirkus/`
-- `c-Stk_DsX` → [DeepSc-Tools](https://github.com/diegonmarcos/DeepSc-Tools) `tools/sailytics`
+- `c-Stk_DsX` → [CAD-Simulators](https://github.com/diegonmarcos/CAD-Simulators) `tools/sailytics`
