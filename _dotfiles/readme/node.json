@@ -5,6 +5,7 @@
   "label": "Projects-labtools",
   "code": "6.2.1.1",
   "kind": "repo",
+  "variant": "repo",
   "description": "Front group c_LabTools (split from front-projects, #1072)",
   "visibility": "public",
   "url": "https://github.com/diegonmarcos/Projects-labtools",
