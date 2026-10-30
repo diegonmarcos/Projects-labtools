@@ -4,6 +4,13 @@
 
 {{breadcrumb}}
 
+> [!WARNING]
+> **Archived.** This repository is kept read-only for history and is no longer developed. It lives under the [z-archived-___](https://github.com/diegonmarcos/z-archived-___) hub.
+
+{{#old_names}}Former name(s): {{old_names}}.{{/old_names}}
+
+{{#history}}Where it went: {{history}}{{/history}}
+
 {{#description}}> {{description}}{{/description}}
 
 | Code | Visibility | Hub | Developer | Farm folder |
