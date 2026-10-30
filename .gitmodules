@@ -3,6 +3,6 @@
 	url = https://github.com/diegonmarcos/diegonmarcos.github.io.git
 	shallow = true
 	ignore = all
-[submodule "0_hub/Projects-___"]
-	path = 0_hub/Projects-___
-	url = https://github.com/diegonmarcos/Projects-___.git
+[submodule "0_hub/z-archived-___"]
+	path = 0_hub/z-archived-___
+	url = https://github.com/diegonmarcos/z-archived-___.git

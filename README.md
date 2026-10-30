@@ -9,7 +9,7 @@
 
 Former name(s): `Projects-labtools`, `front-labtools`.
 
-Where it went: Sources of the former c_LabTools group, split from front-projects (#1072); since #1218 laid out as a-Lfy_C3 only; a-Lfy_CG-Zirkus, b-Nxs_PA, b-Nxs_Blmmbrg, c-Stk_DsX were moved with history to CG-circus, Fin-CM-mqpm, Fin-CM-Blmbrg, CAD-Simulators (labtools 741bb8b, 2026-10-28). Archived 2026-10-30: empty except pointer READMEs; renamed z-archived_Projects-labtools, to be archived on GitHub (owner click).
+Where it went: Sources of the former c_LabTools group, split from front-projects (#1072); since #1218 laid out as a-Lfy_C3 only; a-Lfy_CG-Zirkus, b-Nxs_PA, b-Nxs_Blmmbrg, c-Stk_DsX were moved with history to CG-circus, Capital-Macro-Central-Bank, Capital-Stack-Fin-Terminal, HardTech-Stack-CAD-Simulators (labtools 741bb8b, 2026-10-28). Archived 2026-10-30: empty except pointer READMEs; renamed z-archived_Projects-labtools, to be archived on GitHub (owner click).
 
 > Front group c_LabTools (split from front-projects, #1072)
 
@@ -22,10 +22,10 @@ History stays in diegonmarcos.github.io (snapshot copy). `SPLIT-PATHS.txt` lists
 
 ## Moved out (2026-10-28, with history)
 
-- `b-Nxs_Blmmbrg` → [Fin-CM-Blmbrg](https://github.com/diegonmarcos/Fin-CM-Blmbrg) `src/`
-- `b-Nxs_PA` → [Fin-CM-mqpm](https://github.com/diegonmarcos/Fin-CM-mqpm) `src/central_bank`
+- `b-Nxs_Blmmbrg` → [Capital-Stack-Fin-Terminal](https://github.com/diegonmarcos/Capital-Stack-Fin-Terminal) `src/`
+- `b-Nxs_PA` → [Capital-Macro-Central-Bank](https://github.com/diegonmarcos/Capital-Macro-Central-Bank) `src/central_bank`
 - `a-Lfy_CG-Zirkus` → [CG-circus](https://github.com/diegonmarcos/CG-circus) `a-Lfy_CG-Zirkus/`
-- `c-Stk_DsX` → [CAD-Simulators](https://github.com/diegonmarcos/CAD-Simulators) `tools/sailytics`
+- `c-Stk_DsX` → [HardTech-Stack-CAD-Simulators](https://github.com/diegonmarcos/HardTech-Stack-CAD-Simulators) `tools/sailytics`
 
 ## Folders
 

@@ -1,1 +1,1 @@
-Moved with history to [Fin-CM-Blmbrg/tree/main/src](https://github.com/diegonmarcos/Fin-CM-Blmbrg/tree/main/src) (#1257).
+Moved with history to [Capital-Stack-Fin-Terminal/tree/main/src](https://github.com/diegonmarcos/Capital-Stack-Fin-Terminal/tree/main/src) (#1257).

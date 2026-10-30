@@ -4,7 +4,7 @@
   "sections": [
     {
       "title": "Moved out (2026-10-28, with history)",
-      "body": "- `b-Nxs_Blmmbrg` → [Fin-CM-Blmbrg](https://github.com/diegonmarcos/Fin-CM-Blmbrg) `src/`\n- `b-Nxs_PA` → [Fin-CM-mqpm](https://github.com/diegonmarcos/Fin-CM-mqpm) `src/central_bank`\n- `a-Lfy_CG-Zirkus` → [CG-circus](https://github.com/diegonmarcos/CG-circus) `a-Lfy_CG-Zirkus/`\n- `c-Stk_DsX` → [CAD-Simulators](https://github.com/diegonmarcos/CAD-Simulators) `tools/sailytics`"
+      "body": "- `b-Nxs_Blmmbrg` → [Capital-Stack-Fin-Terminal](https://github.com/diegonmarcos/Capital-Stack-Fin-Terminal) `src/`\n- `b-Nxs_PA` → [Capital-Macro-Central-Bank](https://github.com/diegonmarcos/Capital-Macro-Central-Bank) `src/central_bank`\n- `a-Lfy_CG-Zirkus` → [CG-circus](https://github.com/diegonmarcos/CG-circus) `a-Lfy_CG-Zirkus/`\n- `c-Stk_DsX` → [HardTech-Stack-CAD-Simulators](https://github.com/diegonmarcos/HardTech-Stack-CAD-Simulators) `tools/sailytics`"
     }
   ]
 }
